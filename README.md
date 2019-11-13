@@ -16,6 +16,7 @@ Heroku 提供免费账号，部分介绍如下：
 ## 部署
 1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Forest10/ss-heroku.git/tree/master)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/Forest10/ss-heroku.git/tree/master)
 
+
 2 . 设置 加密算法和app 密码
 
 ![deploy](http://static.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
