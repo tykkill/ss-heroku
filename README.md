@@ -19,9 +19,9 @@ Heroku 提供免费账号，部分介绍如下：
 
 2 . 设置 加密算法和app 密码
 
-![deploy](http://static.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
+![deploy](http://public-img.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
 
-[](http://static.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
+[](http://public-img.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
 
 支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
@@ -36,7 +36,7 @@ Heroku 提供免费账号，部分介绍如下：
 
 ## 配置代理
 1. 下载：Chrome 浏览器 [SwitchyOmega](http://static.forest10.com/ss/SwitchyOmega.zip
-) 插件（解压之后开发者模式安装插件至谷歌浏览器), 导入[教程](http://static.forest10.com/ss/switchyOmega-import-bak.png)备份文件[SSHeroku.Bak
+) 插件（解压之后开发者模式安装插件至谷歌浏览器), 导入[教程](http://public-img.forest10.com/ss/switchyOmega-import-bak.png)备份文件[SSHeroku.Bak
 ](http://static.forest10.com/ss/SSHeroku.bak)）
 2. 配置：添加SwitchyOmega代理服务器
 ```
