@@ -50,4 +50,6 @@ Heroku 提供免费账号，部分介绍如下：
 [阿里云监控](http://public-img.forest10.com/ss/ali-monitor-4-wakeup-heroku.png)
 [配置](http://public-img.forest10.com/ss/ali-monitor-4-wakeup-heroku-detail.png)
 3. 附上本地正常访问
-![](http://public-img.forest10.com/ss/heroku-ss-local-client-show-detail.png)
+ ![](http://public-img.forest10.com/ss/heroku-ss-local-client-show-detail.png)
+4. 访问github有困难的可以使用https://git.code.tencent.com/forest10-github/ss-heroku
+5. 感谢[七牛云](https://portal.qiniu.com/signup?code=1hkqx38g57yvm)提供的[免费图床](https://portal.qiniu.com/signup?code=1hkqx38g57yvm)以及[CDN](https://portal.qiniu.com/signup?code=1hkqx38g57yvm)支持
