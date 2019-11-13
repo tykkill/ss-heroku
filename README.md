@@ -1,5 +1,14 @@
 
-# ss-heroku
+🐌ss-heroku
+====================================
+![Build Status](https://img.shields.io/badge/build-sucess-cccfff.svg?style=popout-square&colorA=006699)
+[![License](https://img.shields.io/github/license/Forest10/ss-heroku)](https://img.shields.io/github/license/Forest10/ss-heroku)
+[![GitHub stars](https://img.shields.io/github/stars/Forest10/ss-heroku)](https://img.shields.io/github/stars/Forest10/ss-heroku)
+![GitHub followers](https://img.shields.io/github/followers/Forest10?style=social)
+[![GitHub forks](https://img.shields.io/github/forks/Forest10/ss-heroku)](https://img.shields.io/github/forks/Forest10/ss-heroku)
+[![GitHub issues](https://img.shields.io/github/issues/Forest10/ss-heroku)](https://img.shields.io/github/issues/Forest10/ss-heroku)
+
+
 [Heroku](https://www.heroku.com/) 是一个支持多种编程语言的云平台即服务，ss-heroku 则是可部署在 Heroku 平台的 ss 服务。
 和 [shadowsocks](https://github.com/clowwindy/shadowsocks) 不同的是 ss-heroku 使用的 WebSocket 代替原本的 sockets。
 
