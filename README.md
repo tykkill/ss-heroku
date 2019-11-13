@@ -51,7 +51,5 @@ Heroku 提供免费账号，部分介绍如下：
 2. heroku 30分钟内无请求会直接睡眠.可使用阿里云监控定时访问.
 [阿里云监控](http://public-img.forest10.com/ss/ali-monitor-4-wakeup-heroku.png)
 [配置](http://public-img.forest10.com/ss/ali-monitor-4-wakeup-heroku-detail.png)
-2. 附上本地正常访问
+3. 附上本地正常访问
 ![](http://public-img.forest10.com/ss/heroku-ss-local-client-show-detail.png)
-
-  
