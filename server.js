@@ -79,7 +79,7 @@
     res.writeHead(200, {
       'Content-Type': 'text/plain'
     });
-    return res.end("Welcome to Heroku https://github.com/Forest10/ss-heroku");
+    return res.end("OK");
   });
 
   wss = new WebSocketServer({
