@@ -45,6 +45,7 @@ Heroku 提供免费账号，部分介绍如下：
     代理端口local_port： 1080 
 ```
 
+
 ## 可选
 1. SwitchyOmega gfwList如果更新失败使用:http://static.forest10.com/ss/gfwlist.txt
 2. heroku 30分钟内无请求会直接睡眠.可使用阿里云监控定时访问.
