@@ -27,9 +27,9 @@ Heroku 提供免费账号，部分介绍如下：
 
 2 . 设置 加密算法和app 密码
 
-![deploy](http://public-img.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
+![deploy](http://public-img.forest10.com/ss/heroku-deploy-detail.jpg)
 
-[](http://public-img.forest10.com/ss/heroku-ss-deploy-conf.jpeg)
+[](http://public-img.forest10.com/ss/heroku-deploy-detail.jpg)
 
 支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
