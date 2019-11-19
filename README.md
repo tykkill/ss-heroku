@@ -38,7 +38,7 @@ Heroku 提供免费账号，部分介绍如下：
 * mac:http://static.forest10.com/ss/ss-h-mac.zip
 * win(64):http://static.forest10.com/ss/ss-h-win64.zip
 
-2. 修改config.json参数，运行ss-h.exe 或 start.vbs (或 [win托盘工具taskbar.exe](https://github.com/onplus/shadowsocks-heroku/issues/39))
+2. 修改config.json参数，运行ss-h.exe 或 start.vbs或win托盘工具taskbar.exe
 
 5. 启动成功，命令行显示：`server listening at { address: '127.0.0.1', family: 'IPv4', port: 1080 }`
 
