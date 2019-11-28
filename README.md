@@ -1,5 +1,5 @@
 
-🚀ss-heroku
+🚀ss-heroku(warning:不提供商业用途,仅供测试学习使用!!!)
 ====================================
 ![Build Status](https://img.shields.io/badge/build-sucess-cccfff.svg?style=popout-square&colorA=006699)
 [![License](https://img.shields.io/github/license/Forest10/ss-heroku)](https://img.shields.io/github/license/Forest10/ss-heroku)
