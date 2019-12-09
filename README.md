@@ -30,7 +30,7 @@ Heroku 提供免费账号，部分介绍如下：
 ![deploy](http://public-img.forest10.com/ss/heroku-deploy-detail.jpg)
 
 [](http://public-img.forest10.com/ss/heroku-deploy-detail.jpg)
-[对应里面的server和password](https://github.com/Forest10/ss-heroku/blob/master/config.json)
+[对应你本地配置里面的server和password](https://github.com/Forest10/ss-heroku/blob/master/config.json)
 
 支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
