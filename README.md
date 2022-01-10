@@ -22,7 +22,7 @@ Heroku 提供免费账号，部分介绍如下：
 
 注册地址：https://signup.heroku.com/ （注册和部署过程需要梯子--欲取之,先予之）
 ## 部署
-1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Forest10/ss-heroku.git/tree/master)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/Forest10/ss-heroku.git/tree/master)
+1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/nggugg/ss-heroku.git/tree/master)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/nggugg/ss-heroku.git/tree/master)
 
 
 2. 设置 加密算法和app 密码
